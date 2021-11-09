@@ -16,7 +16,7 @@ I used [Inkscape](https://inkscape.org/release) to draw a simple icon based on t
 
 ## 3. Generate Source Files for the Icon
 
-I used Inkscape CLI (make sure to add Inkscape to the %PATH%). I also used some tips regarding size from [Microsoft](https://docs.microsoft.com/en-us/windows/win32/uxguide/vis-icons). Here is what I used:
+I used Inkscape CLI (make sure to add Inkscape to the `%PATH%`). I also used some tips regarding size from [Microsoft](https://docs.microsoft.com/en-us/windows/win32/uxguide/vis-icons). Here is what I used:
 ```console
 inkscape -w 16 -h 16 -o 16.png CustomSeqEdit.svg
 inkscape -w 48 -h 48 -o 48.png CustomSeqEdit.svg
