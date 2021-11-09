@@ -22,4 +22,7 @@ inkscape -w 256 -h 256 -o 256.png CustomSeqEdit.svg
 
 ### 4. Generate Icon
 
-I used [ImageMagick](https://imagemagick.org/index.php) CLI: `magick convert 16.png 48.png 64.png 256.png seqedit.ico`.
+I used [ImageMagick](https://imagemagick.org/index.php) CLI:
+```console
+magick convert 16.png 48.png 64.png 256.png seqedit.ico
+```
