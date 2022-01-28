@@ -2,9 +2,10 @@
 
 How to create an icon in 4 steps.
 
-> :speech_balloon: **NOTE**
-> 
-> I should add a script to automate this process...
+<table style="background-color:#FDFDFE;color:black;border-style:solid;border-color:#D4D5D8;border-width:thin;border-left-width:thick;">
+<tr align= "left"><th>📝 Note</th></tr>
+<tr><td>I should add a script to automate this process...</td></tr> 
+</table>
 
 ## 1. Find Inspiration
 
